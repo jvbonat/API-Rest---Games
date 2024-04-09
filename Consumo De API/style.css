@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main,.listHeader,#newGame,#editGame {
+    margin-left: 40px;
+}
+
+.btnDelete {
+    margin-left: 10px;
+}
